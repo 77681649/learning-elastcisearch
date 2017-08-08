@@ -9,3 +9,7 @@ GET /my_store/products/_search
     }
   }
 }
+
+/**
+ * 2. 查询productId
+ */
